@@ -1,0 +1,1 @@
+cmd_/home/alexey/Eltex/kernel/cdev/dev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/alexey/Eltex/kernel/cdev/dev.ko /home/alexey/Eltex/kernel/cdev/dev.o /home/alexey/Eltex/kernel/cdev/dev.mod.o
