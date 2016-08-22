@@ -1,1 +1,0 @@
-cmd_/home/alexey/Eltex/kernel/proc/my_proc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/alexey/Eltex/kernel/proc/my_proc.ko /home/alexey/Eltex/kernel/proc/my_proc.o /home/alexey/Eltex/kernel/proc/my_proc.mod.o
